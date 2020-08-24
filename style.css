@@ -1,0 +1,62 @@
+* {
+    text-align:center;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: white;
+}
+
+h1 {
+      color:black;
+  }
+
+  .div1{
+    background: #88C3FF;
+    height:100px;
+    width: 100%;
+    padding: 2px 5px;
+ 
+  }
+  .aside{
+    background: #88C3FF;
+    height:300px;
+    width: 40%; 
+    padding: 2px 5px;
+    float:left;
+   
+  }
+
+  .article{
+    background: #438AD2;
+  }
+  .sumary{
+    background:#276DB4;
+  }
+  .nav{
+    background: #88C3FF;
+    height:80px;
+    width: 100%;
+    padding: 2px 5px;
+  
+  }
+  .section{
+    background: #88C3FF;
+    height:300px;
+    width: 58%;
+    padding: 2px 5px;
+    float: right;
+  }
+  .footer{
+    background: #88C3FF;
+    height:100px;
+    width: 100%;
+    padding: 2px 5px;
+    display:inline-block; /*ubica abajo el footer, no se porq*/
+  }
